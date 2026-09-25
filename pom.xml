@@ -6,7 +6,7 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
  
     <groupId>com.example</groupId>
-<artifactId>jenkins-demo</artifactId>
+<artifactId>jenkins-continuous-integration</artifactId>
 <version>1.0</version>
  
     <properties>
